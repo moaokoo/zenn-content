@@ -1,5 +1,5 @@
 ---
-title: "Fable 5に開発環境の問題を再定義させたら、tool_doctor.py ができた話"
+title: "Fable 5に相談したら、「何も起こらない」不具合を診断するスクリプトができた"
 emoji: "🩺"
 type: "idea"
 topics: ["ai", "fable5", "python", "開発環境", "自動化"]
